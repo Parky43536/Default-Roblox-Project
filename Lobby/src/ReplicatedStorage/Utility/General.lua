@@ -1,0 +1,3 @@
+local General = {}
+
+return General
